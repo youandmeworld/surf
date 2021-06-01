@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Designer YUMI CHOI</title>
+	<link rel="stylesheet" href="https://use.typekit.net/zbl4ztw.css">
+	<style type="text/css">
+		body{width: 1920px; margin-left: 140px;margin-right: 140px;background-color:#f5f5f5;color: #232323; font-family:montserrat,sans-serif;font-style: normal; }
+
+
+  		
+
+  		.contents{width: 536px;margin-top: 40px;float: left;padding-top: 30px;}
+  		.contents h1{font-weight:600;font-size: 68px;line-height: 78px;font-style: normal;padding-bottom: 15px;padding-top:15px; border-bottom: 2px solid #232323;margin:0;display: block;}
+  		.contents h2{font-weight:600;font-size: 68px;line-height: 78px;font-style: normal;padding-bottom: 15px;padding-top:15px; margin:0;}
+  		
+  		.contents .list p {width: 398px;float: right;padding-left:138px;font-weight:300;font-size: 40px;line-height: 50px;text-align: left;margin: 0; margin-top: 15px;display: block;}
+  		.contents .list small{width: 398px;float: right;padding-left:138px;font-weight:300;font-size: 20px;line-height: 50px;text-align: left;margin: 0; margin-top: 15px; display: block;}
+  		.contents .list span{font-size: 30px;font-style: italic;font-weight: 200;}
+  		.contents .list a{text-decoration: none;font-weight: 500;color: #232323;background: linear-gradient(to bottom, var(--mainColor) 0%, var(--mainColor) 100%);
+			  background-position: 0 100%;
+			  background-repeat: repeat-x;
+			  background-size: 3px 3px;
+			  color: #000;
+			  text-decoration: none;}
+  		.contents .list a:hover{color: #476dfe;cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='80' height='78' viewport='0 0 100 100' style='fill:black;font-size:39px;'><text y='50%'>🌊</text></svg>") 16 0,auto; text-decoration: underline; background-image: url("data:image/svg+xml;charset=utf8,%3Csvg id='squiggle-link' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:ev='http://www.w3.org/2001/xml-events' viewBox='0 0 20 4'%3E%3Cstyle type='text/css'%3E.squiggle{animation:shift .3s linear infinite;}@keyframes shift {from {transform:translateX(0);}to {transform:translateX(-20px);}}%3C/style%3E%3Cpath fill='none' stroke='%23ff9800' stroke-width='2' class='squiggle' d='M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3'/%3E%3C/svg%3E");
+			  background-position: 0 100%;
+			  background-size: auto 6px;
+			  background-repeat: repeat-x;
+			  text-decoration: none;}
+
+
+
+
+
+
+
+
+
+
+
+  		.box{width: 1104px;padding-left: 16px;float: left;padding-right: 140px;}
+  		.box .mainimg{width:1088px;padding-left: 140px;float: left;padding-top:150px;margin-bottom: 15px;}
+  		.box .page-container{width:1088px;padding-left: 552px;float: left;padding-top:150px;margin-bottom: 15px;background-color: #f5f5f5;overflow: visible}
+
+
+
+
+
+
+
+
+		.box .mainimg svg:hover{fill:#476dfe;}
+
+  		.contents .logo{width: 90px;display: block;cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='80' height='78' viewport='0 0 100 100' style='fill:black;font-size:39px;'><text y='50%'>🌊</text></svg>") 16 0,auto;}
+		 svg.logo:hover { transition: 3s;
+			  -webkit-transition: 1s;
+			  -moz-transition: 1s;
+			  -ms-transition: 1s;
+			  -o-transition: 1s;
+			  -webkit-transform: rotate(380deg);
+			  -moz-transform: rotate(360deg);
+			  -o-transform: rotate(360deg);
+			  -ms-transform: rotate(360deg);
+			  transform: rotate(360deg);} 
+
+
+
+		
+
+	</style>
+</head>
+<body>
+	<div class="contents" style="cursor: pointer;" onclick="location.href='/Users/midas_free/Desktop/stuff/port/Designer.html';">
+		
+
+		<div class="logo" >
+			
+			<svg class="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 98.71 98.61" ><defs><style>.cls-1{fill:#fff;}.cls-1,.cls-3{stroke:#000;stroke-miterlimit:10;stroke-width:0.5px;}.cls-2{fill:#2c77e5;}.cls-3{fill:none;}</style></defs><g id="레이어_2" data-name="레이어 2"><g id="레이어_2-2" data-name="레이어 2"><circle cx="49.3" cy="52.01" r="35.44"/><polygon class="cls-1" points="46.82 43.71 49.35 52.14 40.81 49.71 25.45 28.24 46.82 43.71"/><polygon class="cls-1" points="51.89 60.57 49.35 52.14 57.89 54.56 73.25 76.04 51.89 60.57"/><polygon class="cls-1" points="40.92 54.89 49.35 52.35 46.93 60.89 25.45 76.25 40.92 54.89"/><polygon class="cls-1" points="57.78 49.82 49.35 52.35 51.78 43.82 73.25 28.45 57.78 49.82"/><polygon class="cls-1" points="38.39 46.35 49.35 52.24 38.39 58.36 1.55 52.24 38.39 46.35"/><polygon class="cls-1" points="60.32 58.14 49.35 52.24 60.32 46.13 97.15 52.24 60.32 58.14"/><path class="cls-1" d="M49.35.42s-27.28,36.6-4,97.84l4-2,4,2C76.64,37,49.35.42,49.35.42Z"/><circle cx="49.3" cy="52.01" r="1.72"/><path class="cls-2" d="M57.8,18.82C54,7.1,49.35.81,49.35.81s-4.69,6.29-8.44,18c3.75,1,8.44,4.34,8.44,8.12C49.35,23.16,54,19.85,57.8,18.82Z"/><line class="cls-3" x1="62.76" y1="52.2" x2="95.7" y2="52.2"/><line class="cls-3" x1="3.01" y1="52.2" x2="35.95" y2="52.2"/></g></g>
+				
+			</svg>
+		</div>
+
+		<h1>Designer,<br>
+			YUMI CHOI</h1>
+
+
+					<marquee scrollamount="13" style="border-bottom: 1px solid;">
+
+		<h2>Graphic 					<svg xmlns="http://www.w3.org/2000/svg" width="53" height="33" viewBox="0 0 53 33">
+										  <g id="그룹_1" data-name="그룹 1" transform="translate(-267 229.03)">
+										    <g id="패스_26" data-name="패스 26" transform="translate(267 -228.209)" fill="none">
+										      <path d="M10.679,0H42.321a10.679,10.679,0,0,1,0,21.358H10.679A10.679,10.679,0,0,1,10.679,0Z" stroke="none"/>
+										      <path d="M 10.67910003662109 4.000005722045898 C 6.996234893798828 4.000005722045898 4 6.996237754821777 4 10.67910480499268 C 4 14.36197090148926 6.996234893798828 17.35820388793945 10.67910003662109 17.35820388793945 L 42.32089996337891 17.35820388793945 C 46.00376510620117 17.35820388793945 49 14.36197090148926 49 10.67910480499268 C 49 6.996237754821777 46.00376510620117 4.000005722045898 42.32089996337891 4.000005722045898 L 10.67910003662109 4.000005722045898 M 10.67910003662109 5.7220458984375e-06 L 42.32089996337891 5.7220458984375e-06 C 48.21879959106445 5.7220458984375e-06 53 4.781192779541016 53 10.67910480499268 C 53 16.5770149230957 48.21879959106445 21.35820388793945 42.32089996337891 21.35820388793945 L 10.67910003662109 21.35820388793945 C 4.781200408935547 21.35820388793945 0 16.5770149230957 0 10.67910480499268 C 0 4.781192779541016 4.781200408935547 5.7220458984375e-06 10.67910003662109 5.7220458984375e-06 Z" stroke="none" fill="#232323"/>
+										    </g>
+										    <rect id="사각형_4" data-name="사각형 4" width="17" height="23" transform="translate(286 -229.03)" fill="#f5f5f5"/>
+										    <rect id="사각형_17" data-name="사각형 17" width="53" height="11" transform="translate(267 -207.03)" fill="#f5f5f5"/>
+										    <path id="패스_25" data-name="패스 25" d="M288.109-214.5H307.3" transform="translate(-4.411 -3.03)" fill="none" stroke="#232323" stroke-width="4"/>
+										  </g>
+										</svg>
+
+		Illustration 
+						<svg xmlns="http://www.w3.org/2000/svg" width="53" height="33" viewBox="0 0 53 33">
+						  <g id="그룹_1" data-name="그룹 1" transform="translate(-267 229.03)">
+						    <g id="패스_26" data-name="패스 26" transform="translate(267 -228.209)" fill="none">
+						      <path d="M10.679,0H42.321a10.679,10.679,0,0,1,0,21.358H10.679A10.679,10.679,0,0,1,10.679,0Z" stroke="none"/>
+						      <path d="M 10.67910003662109 4.000005722045898 C 6.996234893798828 4.000005722045898 4 6.996237754821777 4 10.67910480499268 C 4 14.36197090148926 6.996234893798828 17.35820388793945 10.67910003662109 17.35820388793945 L 42.32089996337891 17.35820388793945 C 46.00376510620117 17.35820388793945 49 14.36197090148926 49 10.67910480499268 C 49 6.996237754821777 46.00376510620117 4.000005722045898 42.32089996337891 4.000005722045898 L 10.67910003662109 4.000005722045898 M 10.67910003662109 5.7220458984375e-06 L 42.32089996337891 5.7220458984375e-06 C 48.21879959106445 5.7220458984375e-06 53 4.781192779541016 53 10.67910480499268 C 53 16.5770149230957 48.21879959106445 21.35820388793945 42.32089996337891 21.35820388793945 L 10.67910003662109 21.35820388793945 C 4.781200408935547 21.35820388793945 0 16.5770149230957 0 10.67910480499268 C 0 4.781192779541016 4.781200408935547 5.7220458984375e-06 10.67910003662109 5.7220458984375e-06 Z" stroke="none" fill="#232323"/>
+						    </g>
+						    <rect id="사각형_4" data-name="사각형 4" width="17" height="23" transform="translate(286 -229.03)" fill="#f5f5f5"/>
+						    <rect id="사각형_17" data-name="사각형 17" width="53" height="11" transform="translate(267 -207.03)" fill="#f5f5f5"/>
+						    <path id="패스_25" data-name="패스 25" d="M288.109-214.5H307.3" transform="translate(-4.411 -3.03)" fill="none" stroke="#232323" stroke-width="4"/>
+						  </g>
+						</svg>
+
+	Web 				<svg xmlns="http://www.w3.org/2000/svg" width="53" height="33" viewBox="0 0 53 33">
+					  <g id="그룹_1" data-name="그룹 1" transform="translate(-267 229.03)">
+					    <g id="패스_26" data-name="패스 26" transform="translate(267 -228.209)" fill="none">
+					      <path d="M10.679,0H42.321a10.679,10.679,0,0,1,0,21.358H10.679A10.679,10.679,0,0,1,10.679,0Z" stroke="none"/>
+					      <path d="M 10.67910003662109 4.000005722045898 C 6.996234893798828 4.000005722045898 4 6.996237754821777 4 10.67910480499268 C 4 14.36197090148926 6.996234893798828 17.35820388793945 10.67910003662109 17.35820388793945 L 42.32089996337891 17.35820388793945 C 46.00376510620117 17.35820388793945 49 14.36197090148926 49 10.67910480499268 C 49 6.996237754821777 46.00376510620117 4.000005722045898 42.32089996337891 4.000005722045898 L 10.67910003662109 4.000005722045898 M 10.67910003662109 5.7220458984375e-06 L 42.32089996337891 5.7220458984375e-06 C 48.21879959106445 5.7220458984375e-06 53 4.781192779541016 53 10.67910480499268 C 53 16.5770149230957 48.21879959106445 21.35820388793945 42.32089996337891 21.35820388793945 L 10.67910003662109 21.35820388793945 C 4.781200408935547 21.35820388793945 0 16.5770149230957 0 10.67910480499268 C 0 4.781192779541016 4.781200408935547 5.7220458984375e-06 10.67910003662109 5.7220458984375e-06 Z" stroke="none" fill="#232323"/>
+					    </g>
+					    <rect id="사각형_4" data-name="사각형 4" width="17" height="23" transform="translate(286 -229.03)" fill="#f5f5f5"/>
+					    <rect id="사각형_17" data-name="사각형 17" width="53" height="11" transform="translate(267 -207.03)" fill="#f5f5f5"/>
+					    <path id="패스_25" data-name="패스 25" d="M288.109-214.5H307.3" transform="translate(-4.411 -3.03)" fill="none" stroke="#232323" stroke-width="4"/>
+					  </g>
+					</svg>
+
+
+
+ 		UI</h2></marquee>
+	
+		<!----------------projects----------------------->
+		<h1>Surf YUMI's Work🏄</h1>
+		<h1 style="border-bottom: 2px dashed;">
+			Projects
+		</h1>
+		
+
+		<!----------------list----------------------->
+		<h2>(2021)</h2>
+
+		<div class="list">
+				
+		<p><span>1.</span> <a href="/Users/midas_free/Desktop/stuff/port/banditong.html">Ban Di Tong</a></p>
+			<p><span>2.</span> <a href="/Users/midas_free/Desktop/stuff/port/Clean-Campaign.html">Clean Campaign</a></p>
+			<p><span>3.</span><a href="/Users/midas_free/Desktop/stuff/port/salgugol.html"> Sal Gu Gol</a></p>
+			<p><span>4.</span><a href="/Users/midas_free/Desktop/stuff/port/playground.html"> Play Ground</a></p>
+			<p><span>5.</span><a href="/Users/midas_free/Desktop/stuff/port/merror.html"> Me'rror</a></p>
+			
+
+		</div>
+
+		
+		<h2>(2020)</h2>
+
+		<div class="list">
+			<p><span>1.</span> Clean Campaign</p>
+			<p><span>2.</span> Ban Di Tong</p>
+			<p><span>3.</span> Me'rror</p>
+		</div>
+
+		<h2>(2019)</h2>
+
+		<div class="list">
+			<p><span>1.</span> Clean Campaign</p>
+			<p><span>2.</span> Ban Di Tong</p>
+			<p><span>3.</span> Me'rror</p>
+		</div>
+
+
+
+		<h2>(2018)</h2>
+
+		<div class="list">
+			<p><span>1.</span> Clean Campaign</p>
+			<p><span>2.</span> Ban Di Tong</p>
+			<p><span>3.</span> Me'rror</p>
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!----------------about me----------------------->
+		<h1>
+			About me
+			<small>(Read more)</small>
+		</h1>
+
+		</div>
+
+
+
+
+		
+
+
+
+		<!----------------portfolio contents----------------------->
+
+		<div class="box">
+			<div class="mainimg">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 701.22 599.77" fill="#232323" xmlns:v="https://vecta.io/nano"><path d="M92.82 0H16.64C7.45 0 0 6.29 0 14.05V130.7h77.4v2.3H0c0 35.78 34.35 64.79 76.73 64.79h75.6c9.19 0 16.64-6.29 16.64-14V66.57H91.56v-2.28H169C169 28.79 134.87 0 92.82 0zm278.97 197.76h96.93V98.88h55.39C524.11 44.27 471.68 0 407 0h-35.21c-9.19 0-16.64 6.29-16.64 14.05v169.66c0 7.76 7.45 14.05 16.64 14.05zm-109.14 0h.35c46.31 0 83.84-31.7 83.84-70.79V14.9C346.85 6.67 339 0 329.21 0h-64.84a.94.94 0 0 0-1 .85v86a.94.94 0 0 1-1 .85h0a.93.93 0 0 1-1-.85v-86a.94.94 0 0 0-1-.85h-64.84c-9.75 0-17.65 6.67-17.65 14.9v111.29c0 39.52 37.96 71.57 84.77 71.57zm262.2 335.69v-64.78H468.6v-2.27h56.25c0-35.78-34.35-64.78-76.73-64.78h-75.59c-9.2 0-16.65 6.29-16.65 14.05v169.65c0 7.76 7.45 14 16.65 14h96.07v-65.87zm176.37-401.61V67.05H645v-2.27h56.25C701.22 29 666.87 0 624.5 0h-75.6c-9.19 0-16.64 6.29-16.64 14.05v169.66c0 7.76 7.45 14 16.64 14H645v-65.87zM257.57 398.56h5.48c45.85 0 83-31.38 83-70.1v-57.95c0-38.5-37-69.7-82.56-69.7h0v65.94h-2v-65.94h0c-46.62 0-84.41 31.91-84.41 71.26v58.56c.03 37.52 36.05 67.93 80.49 67.93zm3.95-65.91h2v65.64h-2zm109.34 65.91h75.6c42.37 0 76.73-29 76.73-64.78h-82.82v-2.27h82.82v-66.32c0-35.56-34.14-64.38-76.26-64.38h-76.07c-9.19 0-16.64 6.29-16.64 14.05v169.65c0 7.76 7.45 14.05 16.64 14.05zm69.51-133h82.71v2.27h-82.71zM140.81 402h0C63 402 0 455.24 0 520.89v64.83c0 7.76 7.45 14 16.64 14h135.69c9.19 0 16.64-6.29 16.64-14v-52.27h-28.16zm129.33 0H254.9c-42.45 0-76.9 29.06-76.9 64.9h28.2v67.55H178c0 36.07 34.63 65.32 77.36 65.32h14.24c42.73 0 77.36-29.25 77.36-65.32h-28.12V466.9H347c0-35.84-34.41-64.9-76.86-64.9zm431.08 64.31h0c0-35.5-34.09-64.29-76.15-64.29h-74.83c-9.93 0-18 6.8-18 15.19v167.37c0 8.39 8 15.19 18 15.19h70c44.73 0 81-30.62 81-68.39h0a1.25 1.25 0 0 0-1.34-1.14h-74.74a1.24 1.24 0 0 1-1.34-1.13h0a1.25 1.25 0 0 1 1.34-1.14h74.72a1.25 1.25 0 0 0 1.34-1.13v-56a1.25 1.25 0 0 0-1.34-1.14h-74.72a1.25 1.25 0 0 1-1.34-1.13h0a1.25 1.25 0 0 1 1.34-1.14h74.72a1.25 1.25 0 0 0 1.34-1.12zM83.81 200.81h0C37.52 200.81 0 232.49 0 271.57v27.2h28.16v99.79h112.65v-98.87H169v-27c0-39.69-38.16-71.88-85.19-71.88z"/>
+					</svg>
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 701.22 599.77" fill="#232323" xmlns:v="https://vecta.io/nano"><path d="M92.82 0H16.64C7.45 0 0 6.29 0 14.05V130.7h77.4v2.3H0c0 35.78 34.35 64.79 76.73 64.79h75.6c9.19 0 16.64-6.29 16.64-14V66.57H91.56v-2.28H169C169 28.79 134.87 0 92.82 0zm278.97 197.76h96.93V98.88h55.39C524.11 44.27 471.68 0 407 0h-35.21c-9.19 0-16.64 6.29-16.64 14.05v169.66c0 7.76 7.45 14.05 16.64 14.05zm-109.14 0h.35c46.31 0 83.84-31.7 83.84-70.79V14.9C346.85 6.67 339 0 329.21 0h-64.84a.94.94 0 0 0-1 .85v86a.94.94 0 0 1-1 .85h0a.93.93 0 0 1-1-.85v-86a.94.94 0 0 0-1-.85h-64.84c-9.75 0-17.65 6.67-17.65 14.9v111.29c0 39.52 37.96 71.57 84.77 71.57zm262.2 335.69v-64.78H468.6v-2.27h56.25c0-35.78-34.35-64.78-76.73-64.78h-75.59c-9.2 0-16.65 6.29-16.65 14.05v169.65c0 7.76 7.45 14 16.65 14h96.07v-65.87zm176.37-401.61V67.05H645v-2.27h56.25C701.22 29 666.87 0 624.5 0h-75.6c-9.19 0-16.64 6.29-16.64 14.05v169.66c0 7.76 7.45 14 16.64 14H645v-65.87zM257.57 398.56h5.48c45.85 0 83-31.38 83-70.1v-57.95c0-38.5-37-69.7-82.56-69.7h0v65.94h-2v-65.94h0c-46.62 0-84.41 31.91-84.41 71.26v58.56c.03 37.52 36.05 67.93 80.49 67.93zm3.95-65.91h2v65.64h-2zm109.34 65.91h75.6c42.37 0 76.73-29 76.73-64.78h-82.82v-2.27h82.82v-66.32c0-35.56-34.14-64.38-76.26-64.38h-76.07c-9.19 0-16.64 6.29-16.64 14.05v169.65c0 7.76 7.45 14.05 16.64 14.05zm69.51-133h82.71v2.27h-82.71zM140.81 402h0C63 402 0 455.24 0 520.89v64.83c0 7.76 7.45 14 16.64 14h135.69c9.19 0 16.64-6.29 16.64-14v-52.27h-28.16zm129.33 0H254.9c-42.45 0-76.9 29.06-76.9 64.9h28.2v67.55H178c0 36.07 34.63 65.32 77.36 65.32h14.24c42.73 0 77.36-29.25 77.36-65.32h-28.12V466.9H347c0-35.84-34.41-64.9-76.86-64.9zm431.08 64.31h0c0-35.5-34.09-64.29-76.15-64.29h-74.83c-9.93 0-18 6.8-18 15.19v167.37c0 8.39 8 15.19 18 15.19h70c44.73 0 81-30.62 81-68.39h0a1.25 1.25 0 0 0-1.34-1.14h-74.74a1.24 1.24 0 0 1-1.34-1.13h0a1.25 1.25 0 0 1 1.34-1.14h74.72a1.25 1.25 0 0 0 1.34-1.13v-56a1.25 1.25 0 0 0-1.34-1.14h-74.72a1.25 1.25 0 0 1-1.34-1.13h0a1.25 1.25 0 0 1 1.34-1.14h74.72a1.25 1.25 0 0 0 1.34-1.12zM83.81 200.81h0C37.52 200.81 0 232.49 0 271.57v27.2h28.16v99.79h112.65v-98.87H169v-27c0-39.69-38.16-71.88-85.19-71.88z"/></svg>
+			
+				<!----------------page container----------------------->
+
+				
+
+
+
+
+
+
+
+
+			</div>
+
+
+
+			
+
+
+
+
+
+
+
+</body>
+</html>
